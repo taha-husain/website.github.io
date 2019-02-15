@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://tahahusa.in/wow/kick-off/</loc>
+    <lastmod>2019-02-15T14:35:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tahahusa.in/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tahahusa.in/</loc>
+    <lastmod>2019-02-15T14:35:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tahahusa.in/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tahahusa.in/categories/wow/</loc>
+    <lastmod>2019-02-15T14:35:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tahahusa.in/wow/</loc>
+    <lastmod>2019-02-15T14:35:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
