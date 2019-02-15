@@ -1,13 +1,3 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
-[submodule "airspace-hugo"]
-	path = airspace-hugo
-	url = https://github.com/themefisher/airspace-hugo.git
 [submodule "themes/aether"]
 	path = themes/aether
 	url = https://github.com/josephhutch/aether.git
-[submodule "public"]
-	path = public
-	url = git@github.com:taha-husain/taha-husain.github.io.git
-	branch = master
