@@ -1,0 +1,10 @@
+baseURL = "https://tahahusa.in"
+languageCode = "en-us"
+theme = "aether"
+title = "Nothing great here! yet."
+author = "Taha Husain"
+publishDir = "docs"
+
+[params]
+brand = "Taha here and you?"
+description = "No description as of now"
