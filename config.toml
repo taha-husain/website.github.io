@@ -3,7 +3,7 @@ languageCode = "en-us"
 theme = "aether"
 title = "Nothing great here! yet."
 author = "Taha Husain"
-publishDir = "docs"
+publishDir = "docs/"
 
 [params]
 brand = "Taha here and you?"
