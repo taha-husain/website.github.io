@@ -22,7 +22,7 @@ publishDir = "docs"
         numberOfProjectsToShow   = 3                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
 
         localTime                = true                    # Show your current local time in contact section
-        timeZone                 = "India/Mumbai"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+        timeZone                 = "Asia/Kolkata"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
         timeFormat               = "h:mm A"                # https://momentjs.com/docs/#/displaying/format/
     [params.projects]
         useTwoColumns            = false                   # Use a layout with two columns instead of three
@@ -81,5 +81,5 @@ publishDir = "docs"
         weight           = 0
         title            = "Taha Husain"
         [languages.en.params]
-            description  = "Some Random Description just for the sake of it"   # Max 160 characters show in search results
+            description  = "Personal Blog"   # Max 160 characters show in search results
             footerText   = "Peace out <i class=\"fa fa-hand-peace\"></i>"                      # Text to override default footer text (markdown allowed)
