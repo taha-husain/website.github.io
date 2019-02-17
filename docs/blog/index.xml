@@ -6,10 +6,19 @@
     <description>Recent content in Blog on Taha Husain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Feb 2019 14:35:22 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 17 Feb 2019 23:50:10 +0530</lastBuildDate>
     
 	<atom:link href="https://tahahusa.in/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mild Procrastination</title>
+      <link>https://tahahusa.in/blog/mild-procrastination/</link>
+      <pubDate>Sun, 17 Feb 2019 23:50:10 +0530</pubDate>
+      
+      <guid>https://tahahusa.in/blog/mild-procrastination/</guid>
+      <description>I will write about it tomorrow.</description>
+    </item>
     
     <item>
       <title>Kick off</title>
