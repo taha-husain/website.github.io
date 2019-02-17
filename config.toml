@@ -18,7 +18,7 @@ publishDir = "docs"
     [params.home]
         introHeight              = "large"                 # Input either "medium" or "large" or "fullheight"
         showLatest               = true                    # Show latest blog post summary
-        showAllPosts             = true                   # Set true to list all posts on home page, or set false to link to separate blog list page
+        showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
         numberOfProjectsToShow   = 3                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
 
         localTime                = true                    # Show your current local time in contact section
@@ -82,4 +82,4 @@ publishDir = "docs"
         title            = "Taha Husain"
         [languages.en.params]
             description  = "Personal Blog"   # Max 160 characters show in search results
-            footerText   = "Peace out <i class=\"fa fa-hand-peace\"></i>"                      # Text to override default footer text (markdown allowed)
+            footerText   = "Peace, out <i class=\"fa fa-hand-peace\"></i>"                      # Text to override default footer text (markdown allowed)
