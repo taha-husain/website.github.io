@@ -49,6 +49,10 @@ publishDir = "docs"
         url   = "https://www.linkedin.com/in/tahahussain18/"
         icon  = "linkedin-in"
         icon_pack = "fab"
+    [[params.social]]
+        url   = "https://github.com/taha-husain"
+        icon  = "github"
+        icon_pack = "fab"
 
 # If you don't want to use the default menu, you can define one by yourself
 [[menu.main]]
