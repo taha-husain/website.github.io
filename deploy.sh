@@ -4,10 +4,8 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
 rm -rf docs/
-hugo --gc --minify -t introduction -d ../docs -v -b https://tahahusa.in
+hugo --gc --minify -t introduction -d docs -v -b https://tahahusa.in
 
-# Go To Public folder
-cd public
 # Add changes to git.
 git add .
 
@@ -19,7 +17,4 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push -f origin master
-
-# Come Back up to the Project Root
-cd ..
+git push origin master
