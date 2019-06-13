@@ -3,7 +3,8 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
-hugo -t introduction # if using a theme, replace with `hugo -t <YOURTHEME>`
+rm -rf docs/
+hugo --gc --minify -t introduction -d ../docs -v -b https://tahahusa.in
 
 # Go To Public folder
 cd public

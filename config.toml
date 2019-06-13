@@ -26,6 +26,8 @@ publishDir = "docs"
         timeFormat               = "h:mm A"                # https://momentjs.com/docs/#/displaying/format/
     [params.projects]
         useTwoColumns            = false                   # Use a layout with two columns instead of three
+    [params.trips]
+        useTwoColumns            = false                   # Use a layout with two columns instead of three
 
     # Share buttons on blog post pages
     # [params.share]
