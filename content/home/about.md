@@ -4,10 +4,12 @@ image: "images/avatar.jpg"
 weight: 0
 ---
 
-I'm a Software Developer.
+I'm a Violinist, learning Indian Classical Violin.
 
-I'm learning to play Indian Classical Violin.
+I like to do Yoga, play sports and swim.
 
-I like to play sports and swim when I can.
+A Realist. An Athiest.
 
-And I write sometimes(like [blogs](/blog) here).
+Software Engineer by profession. Building web applications using Ruby on Rails.
+
+Master of none.
